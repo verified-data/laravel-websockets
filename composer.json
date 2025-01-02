@@ -34,7 +34,7 @@
         "clue/block-react": "^1.5",
         "clue/reactphp-sqlite": "^1.0",
         "clue/redis-react": "^2.6",
-        "doctrine/dbal": "^4.1.1",
+        "doctrine/dbal": "^3.8",
         "evenement/evenement": "^2.0|^3.0",
         "facade/ignition-contracts": "^1.0",      
         "illuminate/broadcasting": "^11.0",
